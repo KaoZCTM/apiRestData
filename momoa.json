@@ -62,6 +62,7 @@
       "email": "prueba1@prueba1.cl",
       "password": "prueba1prueba1",
       "isactive": true,
+      "rut": "12345678-9",
       "course": [
         {
           "courseId": "024V",
