@@ -1,0 +1,268 @@
+{
+
+  "noticias": [
+    {
+      "id": "1",
+      "titulo": "Hasbulla gana el titulo de peso pesado",
+      "contenido": "Tras noquear a John Jones a los 40 segundos del segundo asalto",
+      "fecha": "30-08-2024",
+      "tipo": "Noticias",
+      "imagen": "https://img.asmedia.epimg.net/resizer/v2/MOQAZVRRMFATFHHVPQGDIHUJUE.jpg?auth=6db377bd26ec5393d72d7ff3d2736f7df3bcfa98d02ce594f1e9dc8618ec0be7&width=1200&height=1200&smart=true"
+    },
+    {
+      "id": "2",
+      "titulo": "Cristobal trigo rompe record Guiness",
+      "contenido": "Tras poseer el calculo renal más grande hasta la fecha",
+      "fecha": "31-08-2024",
+      "tipo": "Polemica",
+      "imagen": "https://i.postimg.cc/FFjqTvvV/horripilantel.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "SCP-ETC ha mutado",
+      "contenido": "Investigadores dieron a conocer el nuevo SCP-1000Calculus, una criatura humanoide anteriormente conocido como Cristobal Trigo, advierten que esta nueva variante es ultra peligrosa ya que cuenta con una ametralladora de calcio en la corneta.",
+      "fecha": "31-08-2024",
+      "tipo": "Polemica",
+      "imagen": "https://i.postimg.cc/Wz6HzG8H/crist-scp.png"
+    }
+  ],
+  "user": [
+    {
+      "id": "0",
+      "username": "",
+      "email": "",
+      "password": "",
+      "isactive": false,
+      "name": "",
+      "lastName": "",
+      "rut": "",
+      "course": [
+        {
+          "courseId": 0,
+          "courseName": "",
+          "courseGrades": [
+            {
+              "grade": [
+                {
+                  "gradeId": 0,
+                  "gradePorc": 0,
+                  "actualGrade": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "829e",
+      "username": "prueba2",
+      "name": "prueba1",
+      "lastname": "prueba1",
+      "email": "prueba1@prueba1.cl",
+      "password": "prueba1prueba1",
+      "isactive": true,
+      "course": [
+        {
+          "courseId": "024V",
+          "courseName": "Programación de aplicaciónes móviles",
+          "courseProfessor": "Viviana Soledad Poblete Lopez",
+          "courseGrades": [
+            {
+              "grade": [
+                {
+                  "gradeId": 0,
+                  "gradePorc": 0,
+                  "actualGrade": 0
+                }
+              ]
+            }
+          ],
+          "attendance": 0,
+          "totalAttendance": 40
+        },
+        {
+          "courseId": "016V",
+          "courseName": "Estadistica descriptiva",
+          "courseProfessor": "Como se llamaba?",
+          "courseGrades": [
+            {
+              "grade": [
+                {
+                  "gradeId": 0,
+                  "gradePorc": 0,
+                  "actualGrade": 0
+                }
+              ]
+            }
+          ],
+          "attendance": 0,
+          "totalAttendance": 20
+        },
+        {
+          "courseId": "011V",
+          "courseName": "Calidad de software",
+          "courseProfessor": "Jorge Guzman Bozo",
+          "courseGrades": [
+            {
+              "grade": [
+                {
+                  "gradeId": 0,
+                  "gradePorc": 0,
+                  "actualGrade": 0
+                }
+              ]
+            }
+          ],
+          "attendance": 20,
+          "totalAttendance": 40
+        },
+        {
+          "courseId": "015V",
+          "courseName": "Arquitectura",
+          "courseProfessor": "Ni el nombre me se de este tipo",
+          "courseGrades": [
+            {
+              "grade": [
+                {
+                  "gradeId": 0,
+                  "gradePorc": 0,
+                  "actualGrade": 0
+                }
+              ]
+            }
+          ],
+          "attendance": 0,
+          "totalAttendance": 0
+        },
+        {
+          "courseId": "069V",
+          "courseName": "Inglés intermedio",
+          "courseProfessor": "",
+          "courseGrades": [
+            {
+              "grade": [
+                {
+                  "gradeId": 0,
+                  "gradePorc": 0,
+                  "actualGrade": 0
+                }
+              ]
+            }
+          ],
+          "attendance": 1,
+          "totalAttendance": 40
+        }
+      ],
+      "justification": [
+        {
+          "id": "asd123",
+          "section": "024V",
+          "name": "prueba1",
+          "lastname": "prueba1",
+          "email": "prueba1@prueba1.cl",
+          "course": "Programación de aplicaciónes móviles",
+          "date": "2024-10-24",
+          "description": "Me siento malito, perdón profe",
+          "comment": "v4523456bv4bfdgbrtey",
+          "comented": 1
+        }
+      ]
+    }
+  ],
+  "professor": [
+    {
+      "id": "0",
+      "username": "",
+      "email": "",
+      "password": "",
+      "isactive": false,
+      "name": "este no debería aparecer",
+      "lastName": "",
+      "rut": ""
+    },
+    {
+      "id": "adf9",
+      "username": "profe2",
+      "name": "profe1",
+      "lastname": "profe1",
+      "email": "profe1@profe1.com",
+      "password": "profe1profe1",
+      "isactive": true,
+      "course": [
+        {
+          "courseId": "023V",
+          "courseName": "Programación de aplicaciónes móviles",
+          "courseProfessor": "Viviana Soledad Poblete Lopez",
+          "courseGrades": [
+            {
+              "grade": [
+                {
+                  "gradeId": 0,
+                  "gradePorc": 0,
+                  "actualGrade": 0
+                }
+              ]
+            }
+          ],
+          "attendance": 0,
+          "totalAttendance": 40
+        },
+        {
+          "courseId": "024V",
+          "courseName": "Programación de aplicaciónes móviles",
+          "courseProfessor": "Viviana Soledad Poblete Lopez",
+          "courseGrades": [
+            {
+              "grade": [
+                {
+                  "gradeId": 0,
+                  "gradePorc": 0,
+                  "actualGrade": 0
+                }
+              ]
+            }
+          ],
+          "attendance": 0,
+          "totalAttendance": 40
+        },
+        {
+          "courseId": "025V",
+          "courseName": "Programación de aplicaciónes móviles",
+          "courseProfessor": "Viviana Soledad Poblete Lopez",
+          "courseGrades": [
+            {
+              "grade": [
+                {
+                  "gradeId": 0,
+                  "gradePorc": 0,
+                  "actualGrade": 0
+                }
+              ]
+            }
+          ],
+          "attendance": 0,
+          "totalAttendance": 40
+        },
+        {
+          "courseId": "026V",
+          "courseName": "Programación de aplicaciónes móviles",
+          "courseProfessor": "Viviana Soledad Poblete Lopez",
+          "courseGrades": [
+            {
+              "grade": [
+                {
+                  "gradeId": 0,
+                  "gradePorc": 0,
+                  "actualGrade": 0
+                }
+              ]
+            }
+          ],
+          "attendance": 0,
+          "totalAttendance": 40
+        }
+      ]
+    }
+  ]
+}
